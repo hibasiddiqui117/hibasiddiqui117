@@ -85,7 +85,7 @@
 
 ---
 
-## 💬 Random Quote
+## Random Quote
 
 > **“Don’t be a consumer. Be a creator.”**
 
