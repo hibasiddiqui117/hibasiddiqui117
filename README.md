@@ -1,63 +1,90 @@
-<h1 align="center">👋 Hi, I'm Hiba Siddiqui</h1>
+<h1 align="center">✨ Hi, I'm Hiba Siddiqui 👩‍💻</h1>
 
 <p align="center">
-🎓 Data Science Undergraduate | 🤖 Founder of AIRS (AI & Robotics Society) <br>
-💡 Passionate about Artificial Intelligence, Robotics, and Context Engineering <br>
-🌍 Aiming to solve real-world problems through innovative tech and open research
+🎓 BS Data Science Student at Sir Syed University of Engineering & Technology (SSUET), Karachi  
+🤖 Founder of AIRS – Artificial Intelligence & Robotics Society  
+💡 Passionate about AI, Robotics, Game Dev, Web Dev, and Context Engineering  
+🌍 On a mission to contribute to global innovation, open-source & research  
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 👩‍💻 About Me
 
-**Languages**:  
-`Python` `SQL` `HTML/CSS` `Markdown`
-
-**AI/ML & Tools**:  
-`Scikit-learn` `Pandas` `NumPy` `NLTK` `spaCy` `Transformers` `TensorFlow`
-
-**Others**:  
-`Git` `VS Code` `Flask` `Microsoft SQL Server` `Jupyter` `GitHub`
+- 🌱 Currently learning: **AI/ML, Web Development, Data Engineering**
+- 💬 Ask me about: **Python, Java, Web Development, Django, AI/ML, SQL, Unity**
+- 📩 Email me at: **hibasiddiqui117@gmail.com**
+- 🎯 Goal: Build impactful tech projects, contribute to research, and grow AIRS globally
+- ⚡ Fun fact: I love solving coding problems, building games, and watching football ⚽
 
 ---
 
-## 🚀 Projects
+## 🔗 Socials
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 [Password Cracking Efficiency Simulator](https://github.com/hibasiddiqui117/password-cracking-simulator) | Compares brute-force, dictionary, and smart password cracking | Python, Matplotlib |
-| 🚨 [Crime Pattern Recognition Engine](https://github.com/hibasiddiqui117/crime-pattern-recognition) | Analyzes and predicts crime trends using ML | Python, Pandas, Scikit-learn |
-| 🧠 [Doctify - RAG Based LLM Chatbot AI Health Diagnosis System](https://github.com/hibasiddiqui117/Doctify) | Predicts disease, suggests precautions and specialists from symptoms | SQL Server, Flask, Python |
-| 🌀 [Dynamic Load Balancer for Cloud Servers](https://github.com/hibasiddiqui117/dynamic-load-balancer) | Efficient resource balancing using a smart algorithm | Python, psutil |
-
-> 🛠️ *More projects coming soon...*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-siddiqui-108618290)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hibasiddiqui117)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibasiddiqui117)
 
 ---
 
-## 📝 Articles & Blogs
+## 💻 Tech Stack
 
-- ✍️ [Python Made Easy for Beginners](https://medium.com/@hibasiddiqui117)
-- 🧠 [Future of AI Chips: Neural Processing Units](https://medium.com/@hibasiddiqui117)
-
----
-
-## 🎯 Goals for 2025
-
-- 📌 Publish research in **Context Engineering**
-- 🌐 Contribute to **Open Source** and **Google Summer of Code**
-- 🧪 Join CERN Internship or similar global program
-- 💬 Launch a **Robotics + AI YouTube channel**
-- 🚀 Scale my tech society **AIRS** to international platforms
-
----
-
-## 📬 Let’s Connect
-
-📫 Email: **hibasiddiqui117@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/hiba-siddiqui-108618290)  
-💻 [GitHub](https://github.com/hibasiddiqui117)  
-📰 [Medium](https://medium.com/@hibasiddiqui117)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-00B1E7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
-<p align="center">✨ Building the future with AI, one project at a time. ✨</p>
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [Password Cracking Simulator](https://github.com/hibasiddiqui117/password-cracking-simulator) | Compare efficiency of different password cracking algorithms | Python, Matplotlib |
+| 🚨 [Crime Pattern Recognition Engine](https://github.com/hibasiddiqui117/crime-pattern-recognition) | Predict and visualize crime hotspots using ML | Python, Pandas, Scikit-learn |
+| 🧠 [AI Health Diagnosis System](https://github.com/hibasiddiqui117/ai-health-diagnosis) | Predict diseases, precautions, specialists using symptoms | SQL Server, Flask, HTML |
+| 🌀 [Dynamic Load Balancer](https://github.com/hibasiddiqui117/dynamic-load-balancer) | Smart load balancer for efficient cloud server resource use | Python, psutil |
+
+---
+
+## 📝 My Articles
+
+- 📘 [Python for Beginners – Medium](https://medium.com/@hibasiddiqui117)
+- 🤖 [What Are NPUs? Neural Processing Units Explained](https://medium.com/@hibasiddiqui117)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hibasiddiqui117&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibasiddiqui117&layout=compact&theme=radical" width="300"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hibasiddiqui117&theme=onedark&rank=SECRET,SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💬 Dev Quote
+
+> “A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.”  
+> – *Ted Nelson*
+
+---
+
+<p align="center">🚀 Let's build the future together — one AI project at a time!</p>
