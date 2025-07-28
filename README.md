@@ -1,67 +1,62 @@
-<h1 align="center">✨ Hi, I'm Hiba Siddiqui 👩‍💻</h1>
+<h1 align="center">👋 Hey, I'm Hiba Siddiqui</h1>
 
 <p align="center">
-🎓 BS Data Science Student at Sir Syed University of Engineering & Technology (SSUET), Karachi  
-🤖 Founder of AIRS – Artificial Intelligence & Robotics Society  
-💡 Passionate about AI, Robotics, Game Dev, Web Dev, and Context Engineering  
-🌍 On a mission to contribute to global innovation, open-source & research  
+🎓 Data Science Student | 🤖 Founder of AIRS (Artificial Intelligence & Robotics Society)  
+💡 Polymath | Passionate about AI, Robotics, Context Engineering, and Visual Storytelling  
+🌍 Aiming to use technology to impact the world — from cloud to cognition
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
--  Currently learning: **AI/ML, Web Development, Data Engineering**
--  Ask me about: **Python, Java, Web Development, Django, AI/ML, SQL, Unity**
--  Email me at: **hibasiddiqui117@gmail.com**
--  Goal: Build impactful tech projects, contribute to research, and grow AIRS globally
--  Fun fact: I love solving coding problems, building games, and watching football 
+- 🌱 Currently exploring **AI/ML, Streamlit App Development, Robotics, Context Engineering, and Cloud Computing**
+- 💬 Ask me about **Python, Streamlit, Data Science, Arduino, SQL, Web APIs, AI Systems**
+- 🧠 I love blending logic with creativity — from writing research to building interactive apps
+- 🎓 Studying **BS in Data Science** at **Sir Syed University of Engineering and Technology (SSUET)**
+- ⚡ Fun Fact: I consider myself a **Polymath**, driven by curiosity, leadership, and innovation
+- ✍️ Published Author on Medium, Content Creator, and Society Leader
 
 ---
 
-## 🔗 Socials
+## 🔧 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-siddiqui-108618290)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hibasiddiqui117)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibasiddiqui117)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-00B1E7?style=for-the-badge&logo=autodesk&logoColor=white)
+**Libraries & Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects Showcase
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-|  [Password Cracking Simulator](https://github.com/hibasiddiqui117/password-cracking-simulator) | Compare efficiency of different password cracking algorithms | Python, Matplotlib |
-|  [Crime Pattern Recognition Engine](https://github.com/hibasiddiqui117/crime-pattern-recognition) | Predict and visualize crime hotspots using ML | Python, Pandas, Scikit-learn |
-|  [Doctify - RAG Based LLM Chatbot AI Health Diagnosis System](https://github.com/hibasiddiqui117/Doctify) | Predict diseases, precautions, specialists using symptoms | SQL Server, Flask, HTML |
-|  [Dynamic Load Balancer](https://github.com/hibasiddiqui117/dynamic-load-balancer) | Smart load balancer for efficient cloud server resource use | Python, psutil |
+| 🔐 **Password Cracking Efficiency Simulator** | Simulates and compares brute-force, dictionary, and ML-based cracking methods | Python, Matplotlib |
+| 🧠 **Doctify - RAG Based LLM Chatbot AI Health Diagnosis System** | Predicts disease, suggests precautions and specialists from symptoms | Python, SQL Server, Streamlit |
+| 🚨 **Crime Pattern Recognition Engine** | Machine learning engine to detect and visualize crime hotspots | Python, Scikit-learn, Plotly |
+| 🌀 **Dynamic Load Balancer for Cloud Servers** | Auto-distributes cloud traffic to optimize performance | Python, psutil |
+
+🧪 **More Research Projects** coming soon...
 
 ---
 
-## 📝 My Articles
+## ✍️ My Articles
 
-- 📘 [Python for Beginners – Medium](https://medium.com/@hibasiddiqui117)
-- 🤖 [What Are NPUs? Neural Processing Units Explained](https://medium.com/@hibasiddiqui117)
+- 🧠 [Revolutionising AI Computation: The Role of Neural Processing Units in Modern Technology](https://medium.com/p/31c457af80ea)
+- 🐍 [3 Hidden Python Libraries for Data Science You Should Know: pyspan, Dask, and Vaex](https://medium.com/@hibasiddiqui117/3-hidden-python-libraries-for-data-science-you-should-know-pyspan-dask-and-vaex-ffe1c478441b)
 
 ---
 
@@ -76,15 +71,24 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hibasiddiqui117&theme=onedark&rank=SECRET,SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hibasiddiqui117&theme=onedark&row=1&column=7"/>
+</p>
 
 ---
 
-## 💬 Dev Quote
+## 🔗 Socials
 
-> “A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.”  
-> – *Ted Nelson*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiba-siddiqui-108618290)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hibasiddiqui117)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hibasiddiqui117)
 
 ---
 
-<p align="center">🚀 Let's build the future together — one AI project at a time!</p>
+## 💬 Random Quote
+
+> **“Don’t be a consumer. Be a creator.”**
+
+---
+
+<p align="center">✨ Empowering innovation with code, research, and leadership ✨</p>
