@@ -60,4 +60,4 @@
 
 ---
 
-<p align="center">✨ *Building the future with AI, one project at a time.* ✨</p>
+<p align="center">✨ Building the future with AI, one project at a time. ✨</p>
