@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/1200x/2f/25/5e/2f255e310dd21bb64cfeddcaddb7a1d3.jpg)
+![MasterHead](https://i.pinimg.com/1200x/2f/25/5e/2f255e310dd21bb64cfeddcaddb7a1d3.jpg)
 <h1 align="center">Hi 👋, I'm Hiba Siddiqui</h1>
 <h3 align="center">Data Science Student | 🤖 Founder of AIRS (Artificial Intelligence & Robotics Society) 💡 Polymath | Passionate about AI, Robotics, Context Engineering, and Visual Storytelling 🌍 Aiming to use technology to impact the world — from cloud to cognition</h3>
 <img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif">
