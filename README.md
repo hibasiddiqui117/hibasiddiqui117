@@ -11,11 +11,11 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning: **AI/ML, Web Development, Data Engineering**
-- 💬 Ask me about: **Python, Java, Web Development, Django, AI/ML, SQL, Unity**
-- 📩 Email me at: **hibasiddiqui117@gmail.com**
-- 🎯 Goal: Build impactful tech projects, contribute to research, and grow AIRS globally
-- ⚡ Fun fact: I love solving coding problems, building games, and watching football ⚽
+-  Currently learning: **AI/ML, Web Development, Data Engineering**
+-  Ask me about: **Python, Java, Web Development, Django, AI/ML, SQL, Unity**
+-  Email me at: **hibasiddiqui117@gmail.com**
+-  Goal: Build impactful tech projects, contribute to research, and grow AIRS globally
+-  Fun fact: I love solving coding problems, building games, and watching football 
 
 ---
 
@@ -51,10 +51,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔐 [Password Cracking Simulator](https://github.com/hibasiddiqui117/password-cracking-simulator) | Compare efficiency of different password cracking algorithms | Python, Matplotlib |
-| 🚨 [Crime Pattern Recognition Engine](https://github.com/hibasiddiqui117/crime-pattern-recognition) | Predict and visualize crime hotspots using ML | Python, Pandas, Scikit-learn |
-| 🧠 [AI Health Diagnosis System](https://github.com/hibasiddiqui117/ai-health-diagnosis) | Predict diseases, precautions, specialists using symptoms | SQL Server, Flask, HTML |
-| 🌀 [Dynamic Load Balancer](https://github.com/hibasiddiqui117/dynamic-load-balancer) | Smart load balancer for efficient cloud server resource use | Python, psutil |
+|  [Password Cracking Simulator](https://github.com/hibasiddiqui117/password-cracking-simulator) | Compare efficiency of different password cracking algorithms | Python, Matplotlib |
+|  [Crime Pattern Recognition Engine](https://github.com/hibasiddiqui117/crime-pattern-recognition) | Predict and visualize crime hotspots using ML | Python, Pandas, Scikit-learn |
+|  [Doctify - RAG Based LLM Chatbot AI Health Diagnosis System](https://github.com/hibasiddiqui117/Doctify) | Predict diseases, precautions, specialists using symptoms | SQL Server, Flask, HTML |
+|  [Dynamic Load Balancer](https://github.com/hibasiddiqui117/dynamic-load-balancer) | Smart load balancer for efficient cloud server resource use | Python, psutil |
 
 ---
 
