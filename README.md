@@ -1,61 +1,203 @@
-![MasterHead](https://i.pinimg.com/1200x/2f/25/5e/2f255e310dd21bb64cfeddcaddb7a1d3.jpg)
-<h1 align="center">Hi 👋, I'm Hiba Siddiqui</h1>
-<h3 align="center">Data Science Student | 🤖 Founder of AIRS (Artificial Intelligence & Robotics Society) 💡 Polymath | Passionate about AI, Robotics, Context Engineering, and Visual Storytelling 🌍 Aiming to use technology to impact the world — from cloud to cognition</h3>
-<img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif">
+<!-- Neon Header with Animated Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=header&text=DEPLOYING%20IDEAS%20INTO%20INNOVATION&fontSize=45&fontColor=130559&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hibasiddiqui117&label=Profile%20views&color=0e75b6&style=flat" alt="hibasiddiqui117" /> </p>
+<!-- Animated Name with Neon Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=430259&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hiba+Siddiqui;Aspiring+Data+Scientist;;AI+Architect+%26+Digital+Innovator;Founder+of+AIRS;+Polymath+%26+Tech+Visionary;Passionate+about+AI+%26+Robotics;Visual+Storytelling+Expert;Context+Engineering+Specialist" alt="Hiba Siddiqui" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hibasiddiqui117" alt="hibasiddiqui117" /></a> </p>
 
-## About Me
+<!-- Female Data Scientist GIF with Neon Border -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif" style="border-radius: 50px; border: 5px solid #00FFFF; box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF, 0 0 90px #FFFF00;">
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- Profile Views and Trophies with Neon Style -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hibasiddiqui117&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=hibasiddiqui117&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 About Me
+
+<!-- Animated About Me Section -->
+
+<div align="center">
+  <img align="right" alt="AI Coding" width="400" src="https://i.pinimg.com/originals/24/e2/8e/24e28ed51a4f6ea3338d4b41e78d5d96.gif" style="border-radius: 15px; border: 2px solid #FF;">
+</div>
+
+<div style="color: #27023d; font-size: 18px;">
+
 - 🌱 Currently exploring **AI/ML, Streamlit App Development, Robotics, Context Engineering, and Cloud Computing**
 - 💬 Ask me about **Python, Streamlit, Data Science, Arduino, SQL, Web APIs, AI Systems**
 - 🧠 I love blending logic with creativity — from writing research to building interactive apps
 - 🎓 Studying **BS in Data Science** at **Sir Syed University of Engineering and Technology (SSUET)**
 - ⚡ Fun Fact: I consider myself a **Polymath**, driven by curiosity, leadership, and innovation
 - ✍️ Published Author on Medium, Content Creator, and Society Leader
+- 🤖 **Founder of AIRS** (Artificial Intelligence & Robotics Society)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logocolor=white)](https://linkedin.com/in/hiba-siddiqui-108618290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://img.shields.io/badge/linkedin-%230077b5.svg?style=for-the-badge&logo=linkedin&logocolor=white)](https://linkedin.com/in/hiba-siddiqui-108618290" height="30" width="40" /></a>
-<a href="https://medium.com/hibasiddiqui117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hibasiddiqui117" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hibasiddiqui117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hibasiddiqui117" height="30" width="40" /></a>
+</div>
+
+<br clear="both">
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/hiba-siddiqui-108618290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@hibasiddiqui117" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
+  </a>
+  <a href="https://www.leetcode.com/hibasiddiqui117" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" />
+  </a>
+</div>
+
+## 🛠 Tech Arsenal
+
+### 💻 Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,django,mysql&theme=dark" />
 </p>
 
-## Tech Stack
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-1e40af?style=for-the-badge&logo=python&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Java-2563eb?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-60a5fa?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-93c5fd?style=for-the-badge&logo=html5&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1e40af?style=for-the-badge&logo=css3&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Flask-2563eb?style=for-the-badge&logo=flask&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Django-3b82f6?style=for-the-badge&logo=django&logoColor=white&labelColor=0f172a" height="35"/>
+</div>
 
-<h3 align="left">Libraries:</h3>
+<!-- Programming Languages -->
+<h3 align="center" style="color: #27023d;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=27023D&center=true&vCenter=true&width=600&lines=💻+Programming+Languages" alt="Languages" />
+</h3>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" alt="Programming Languages" />
+</div>
 
+<!-- AI/ML & Data Science -->
+<h3 align="center" style="color: #27023d;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=27023D&center=true&vCenter=true&width=600&lines=🤖+AI/ML+%26+Data+Science" alt="AI ML" />
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibasiddiqui117&show_icons=true&locale=en&layout=compact" alt="hibasiddiqui117" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibasiddiqui117&show_icons=true&locale=en" alt="hibasiddiqui117" /></p>
+<!-- Frameworks & Tools -->
+<h3 align="center" style="color: #27023d;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=27023D&center=true&vCenter=true&width=600&lines=🛠️+Frameworks+%26+Tools" alt="Tools" />
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibasiddiqui117&" alt="hibasiddiqui117" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,git,linux,arduino&theme=dark" alt="Frameworks & Tools" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jupyter-1e40af?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/VSCode-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Git-3b82f6?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Linux-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/Ubuntu-93c5fd?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/MySQL-1e40af?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/SSMS-2563eb?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/VVM-3b82f6?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=0f172a" height="35"/>
+  <img src="https://img.shields.io/badge/MIPS-60a5fa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f172a" height="35"/>
+</div>
 
----
+</div>
 
-## My Articles
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- GitHub Stats with Neon Theme -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=1500&pause=500&color=FFFF00&center=true&vCenter=true&width=400&lines=📊+GITHUB+STATS" alt="GitHub Stats" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hibasiddiqui117&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibasiddiqui117&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hibasiddiqui117&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakLabel=00FFFF" alt="GitHub Streak" />
+</div>
+
+<!-- Animated Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibasiddiqui117&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFF00" alt="Activity Graph" />
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<!-- Animated Articles Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=1500&pause=500&color=FF0080&center=true&vCenter=true&width=400&lines=📝+MY+ARTICLES" alt="Articles" />
+</h2>
+
+<div align="center" style="color: #27023d;">
 
 - 🧠 [Revolutionising AI Computation: The Role of Neural Processing Units in Modern Technology](https://medium.com/p/31c457af80ea)
 - 🐍 [3 Hidden Python Libraries for Data Science You Should Know: pyspan, Dask, and Vaex](https://medium.com/@hibasiddiqui117/3-hidden-python-libraries-for-data-science-you-should-know-pyspan-dask-and-vaex-ffe1c478441b)
 
----
+</div>
 
-## Random Quote
+<!-- Animated Quote Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=1500&pause=500&color=00FF80&center=true&vCenter=true&width=400&lines=💭+INSPIRATION" alt="Quote" />
+</h2>
 
-> **“Don’t be a consumer. Be a creator.”**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=27023D&center=true&vCenter=true&width=800&lines=%22Don't+be+a+consumer.+Be+a+creator.%22;%22Innovation+distinguishes+between+a+leader+and+a+follower.%22;%22The+future+belongs+to+those+who+code+it.%22" alt="Quotes" />
+</div>
 
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
----
+<!-- Visitor Counter with Neon Effect -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hibasiddiqui117&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visitor Count" />
+</div>
 
-<p align="center">✨ Empowering innovation with code, research, and leadership ✨</p>
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=150&section=footer&text=✨+Empowering+innovation+with+code,+research,+and+leadership+✨&fontSize=24&fontColor=130559&animation=twinkling" width="100%"/>
+</div>
