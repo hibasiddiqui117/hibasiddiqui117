@@ -20,7 +20,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-
 ## 🌟 About Me
 
 <!-- Animated About Me Section -->
@@ -60,6 +59,12 @@
   <a href="https://www.leetcode.com/hibasiddiqui117" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" />
   </a>
+</div>
+
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🛠 Tech Arsenal
@@ -175,6 +180,11 @@
 
 <div align="center" style="background: linear-gradient(135deg, rgba(30, 58, 138, 0.1), rgba(59, 130, 246, 0.1)); padding: 30px; border-radius: 20px; margin: 30px 0; border: 2px solid rgba(88, 166, 255, 0.2);">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don't%20be%20a%20consumer.%20Be%20a%20creator.&author=Hiba%20Siddiqui" style="border-radius: 10px;"/>
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🐍 Snake Animation
