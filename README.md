@@ -33,7 +33,7 @@
 - 🌱 Currently exploring **AI/ML, Streamlit App Development, Robotics, Context Engineering, and Cloud Computing**
 - 💬 Ask me about **Python, Streamlit, Data Science, Arduino, SQL, Web APIs, AI Systems**
 - 🧠 I love blending logic with creativity — from writing research to building interactive apps
-- 🎓 Studying **BS in Data Science** at **Sir Syed University of Engineering and Technology (SSUET)**
+- 🎓 Studying **BS in Data Science**
 - ⚡ Fun Fact: I consider myself a **Polymath**, driven by curiosity, leadership, and innovation
 - ✍️ Published Author on Medium, Content Creator, and Society Leader
 - 🤖 **Founder of AIRS** (Artificial Intelligence & Robotics Society)
