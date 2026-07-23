@@ -7,12 +7,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=430259&center=true&vCenter=true&width=800&lines=Hi,+I'm+Hiba+Siddiqui;Aspiring+Data+Scientist;;AI+Architect+%26+Digital+Innovator;Founder+of+AIRS;+Polymath+%26+Tech+Visionary;Passionate+about+AI+%26+Robotics;Visual+Storytelling+Expert;Context+Engineering+Specialist" alt="Hiba Siddiqui" />
 </h1>
-
-<!-- Female Data Scientist GIF with Neon Border -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif" style="border-radius: 40px; border: 5px solid #00FFFF; box-shadow: 0 0 30px #00FFFF, 0 0 50px #FF00FF, 0 0 50px #FFFF00;"width="100%"/>
-</div>
-
 <br>
 
 <!-- Animated Divider -->
@@ -32,7 +26,7 @@
 
 - 🌱 Currently exploring **AI/ML, Streamlit App Development, Robotics, Context Engineering, and Cloud Computing**
 - 💬 Ask me about **Python, Streamlit, Data Science, Arduino, SQL, Web APIs, AI Systems**
-- 🧠 I love blending logic with creativity — from writing research to building interactive apps
+- 🧠 I love blending logic with creativity, from writing research to building interactive apps
 - 🎓 Studying **BS in Data Science**
 - ⚡ Fun Fact: I consider myself a **Polymath**, driven by curiosity, leadership, and innovation
 - ✍️ Published Author on Medium, Content Creator, and Society Leader
